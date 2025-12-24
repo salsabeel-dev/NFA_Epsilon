@@ -6,8 +6,7 @@ Mini project to remove epsilon (ε) transitions from a Non-Deterministic Finite 
 C
 
 ## How to run
-`bash
-gcc epsilon_nfa.c -o nfa
+gcc epsilon_nfa.c -o nfa<br>
 ./nfa
 
 ## Author
